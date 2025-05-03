@@ -39,7 +39,7 @@ function App() {
             <Container maxWidth="sm">
                 <Box mt={4}>
                     <Typography variant="h4" align="center" gutterBottom>
-                        Умный ToDo
+                        ToDo
                     </Typography>
                     <AddTodo onAdd={addTodo} />
                     <Box mt={2}>
