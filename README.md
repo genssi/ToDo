@@ -22,9 +22,9 @@
    ```
 
 2. **Установите зависимости:**
-    npm install
+    ```npm install```
 
 3. **Запустите проект:**
-    npm start
-
+    ```npm start```
+    
     ```Откроется на http://localhost:3000.```
